@@ -1,5 +1,5 @@
 ## Awesome Deep Learning papers for industrial Search, Recommendation and Advertisement. They focus on Embedding, Matching, Pre-Ranking, Ranking (CTR/CVR prediction), Post-Ranking, Relevance-Ranking, LLM based ranking, Reinforcement Learning and so on.
-## Please cite our paper: "Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives", which was published in TOIS 2026.
+### Please cite our paper: "Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives", which was published in TOIS 2026.
 
 ## 00_Overview
 * [2026 (TOIS) [DLTR] Deep Learning to Rank in Industrial Search Engines, Recommender Systems, and Online Advertising - An Overview and New Perspectives](https://github.com/guyulongcs/Deep-Learning-for-Search-Recommendation-Advertisements/blob/master/00_Overview/2026%20%28TOIS%29%20%5BDLTR%5D%20Deep%20Learning%20to%20Rank%20in%20Industrial%20Search%20Engines%2C%20Recommender%20Systems%2C%20and%20Online%20Advertising%20-%20An%20Overview%20and%20New%20Perspectives.pdf) <br />
