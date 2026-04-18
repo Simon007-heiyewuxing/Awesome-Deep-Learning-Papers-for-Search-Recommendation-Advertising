@@ -26,8 +26,10 @@ paper_flag = 0
 paper_name = ""
 catalog_flag = 0
 
+lineNo = 0
 for line in all_lines:
-    if catalog_flag != 1:
+    lineNo+=1
+    if lineNo <= 2:
         out_file.write(line)
     if line.startswith("##"):
         catalog_flag = 1
